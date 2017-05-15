@@ -3,6 +3,10 @@ body {
   margin: 0;
 }
 
+h1{
+  font-size: 30px;
+}
+
 form {
   background-color: #006600;
     -webkit-animation-name: spotify; /* Safari 4.0 - 8.0 */
