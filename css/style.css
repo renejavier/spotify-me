@@ -11,6 +11,7 @@ form {
     animation-duration: 4s;
   color: #fff;
   padding: 10px 25px;
+  font-size: 50px;
 }
 
 /* Safari 4.0 - 8.0 */
@@ -27,7 +28,7 @@ form {
 
 h1 {
   margin: 0;
-  font-size: 200px;
+  font-size: 50px;
 }
 
 a {
