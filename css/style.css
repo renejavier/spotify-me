@@ -3,10 +3,6 @@ body {
   margin: 0;
 }
 
-h1 {
-  font-size: 100px;
-}
-
 form {
   background-color: #006600;
     -webkit-animation-name: spotify; /* Safari 4.0 - 8.0 */
@@ -31,6 +27,7 @@ form {
 
 h1 {
   margin: 0;
+  font-size: 100px;
 }
 
 a {
